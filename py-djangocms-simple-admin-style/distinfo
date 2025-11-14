@@ -1,0 +1,5 @@
+$NetBSD: distinfo,v 1.11 2025/04/14 14:17:41 adam Exp $
+
+BLAKE2s (djangocms_simple_admin_style-1.1.5.tar.gz) = 0025f4679a5a0ff626dc88864b1fe7f4d5c736a5f66d9bb8e062564b4d92d620
+SHA512 (djangocms_simple_admin_style-1.1.5.tar.gz) = 77cc20b1b84dc1903914509d1f2e342b9847d8b9544a270fd6ef2379f452cf8470b9d265c4d0a12c80c35462a080ecf47452019b374f09a12f9c5d6df6b85e0e
+Size (djangocms_simple_admin_style-1.1.5.tar.gz) = 6742 bytes
