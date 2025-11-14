@@ -1,0 +1,5 @@
+$NetBSD: distinfo,v 1.11 2025/04/14 14:17:41 adam Exp $
+
+BLAKE2s (django-parler-2.3.tar.gz) = d8054c9c76a02b48463b05f0d1b814f833215f2f14a157bdd6af4495f79b3005
+SHA512 (django-parler-2.3.tar.gz) = 09612b5a1e9742177bdc4f13547c738a132520b15886387020d12a9bb74d710d39cbaad5875a46d01d6e8a710c3acab7da8c929b1a3cc7bf0eb2bed9e422a69e
+Size (django-parler-2.3.tar.gz) = 69167 bytes
