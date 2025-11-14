@@ -1,0 +1,5 @@
+$NetBSD: distinfo,v 1.11 2025/04/14 14:17:41 adam Exp $
+
+BLAKE2s (djangocms_frontend-2.2.0.tar.gz) = 15a773565b3eeecd89773dd404937d52af678e88374e4109f287755c9c703c35
+SHA512 (djangocms_frontend-2.2.0.tar.gz) = 1c317d869db67985cad1dd083962b158e027c34cc26006a63071d97b8a398a7a52b493624ddf6020d3e7ce5f1300bc399e0eca90817bfa3734b29f0506d0fb08
+Size (djangocms_frontend-2.2.0.tar.gz) = 6270967 bytes
