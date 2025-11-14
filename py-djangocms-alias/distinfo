@@ -1,0 +1,5 @@
+$NetBSD: distinfo,v 1.11 2025/04/14 14:17:41 adam Exp $
+
+BLAKE2s (djangocms_alias-3.0.2.tar.gz) = 45c5cb10c1370245ea9531dadbc5b85800fd128a2f84c76c2a2e1483d50b3e4f
+SHA512 (djangocms_alias-3.0.2.tar.gz) = be864abd1b1e74150b192d06dee9ad929eb46c24069934870d06ffad0656a86d950342a404073eb539265dc894e1ce07bbe3d10c3f7b03fc1f113bd6945d2f26
+Size (djangocms_alias-3.0.2.tar.gz) = 68586 bytes
