@@ -1,0 +1,20 @@
+@comment $NetBSD$
+${PYSITELIB}/django_fsm/__init__.py
+${PYSITELIB}/django_fsm/__init__.pyc
+${PYSITELIB}/django_fsm/__init__.pyo
+${PYSITELIB}/django_fsm/management/__init__.py
+${PYSITELIB}/django_fsm/management/__init__.pyc
+${PYSITELIB}/django_fsm/management/__init__.pyo
+${PYSITELIB}/django_fsm/management/commands/__init__.py
+${PYSITELIB}/django_fsm/management/commands/__init__.pyc
+${PYSITELIB}/django_fsm/management/commands/__init__.pyo
+${PYSITELIB}/django_fsm/management/commands/graph_transitions.py
+${PYSITELIB}/django_fsm/management/commands/graph_transitions.pyc
+${PYSITELIB}/django_fsm/management/commands/graph_transitions.pyo
+${PYSITELIB}/django_fsm/signals.py
+${PYSITELIB}/django_fsm/signals.pyc
+${PYSITELIB}/django_fsm/signals.pyo
+${PYSITELIB}/${WHEEL_INFODIR}/LICENSE
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL

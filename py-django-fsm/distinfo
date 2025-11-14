@@ -1,0 +1,5 @@
+$NetBSD: distinfo,v 1.11 2025/04/14 14:17:41 adam Exp $
+
+BLAKE2s (django_fsm_2-4.1.0.tar.gz) = 5c66905cd9d19d3845b3b8820614e11e27a1906e4ddfeedf7334ba66013bdfc1
+SHA512 (django_fsm_2-4.1.0.tar.gz) = ddc109a220a09a8d8ad06d3ede65653c37e91665ec9500b105834442c857c461ab7199360ad1d179b0c12b3c001596a93b44f154a61b87f9ddb2ea5f5ff349bb
+Size (django_fsm_2-4.1.0.tar.gz) = 17695 bytes
