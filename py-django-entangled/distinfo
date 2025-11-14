@@ -1,0 +1,5 @@
+$NetBSD: distinfo,v 1.11 2025/04/14 14:17:41 adam Exp $
+
+BLAKE2s (django_entangled-0.7.tar.gz) = 866b9c98c669a6c5dcd093587c61bd44f1d14854582d168fb062866b2107cefa
+SHA512 (django_entangled-0.7.tar.gz) = 05ca5ce049a38b7c1422661da8a92a7bff87e9be92150f7d6bf681b9dd3b39f51ebd3fd6a06948c503d8ae52e1a9b162a2977ec50272bf0f10d407bd45834cc1
+Size (django_entangled-0.7.tar.gz) = 11875 bytes

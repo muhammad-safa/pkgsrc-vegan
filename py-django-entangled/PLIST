@@ -1,0 +1,15 @@
+@comment $NetBSD$
+${PYSITELIB}/${WHEEL_INFODIR}/METADATA
+${PYSITELIB}/${WHEEL_INFODIR}/RECORD
+${PYSITELIB}/${WHEEL_INFODIR}/WHEEL
+${PYSITELIB}/${WHEEL_INFODIR}/licenses/LICENSE
+${PYSITELIB}/${WHEEL_INFODIR}/top_level.txt
+${PYSITELIB}/entangled/__init__.py
+${PYSITELIB}/entangled/__init__.pyc
+${PYSITELIB}/entangled/__init__.pyo
+${PYSITELIB}/entangled/forms.py
+${PYSITELIB}/entangled/forms.pyc
+${PYSITELIB}/entangled/forms.pyo
+${PYSITELIB}/entangled/utils.py
+${PYSITELIB}/entangled/utils.pyc
+${PYSITELIB}/entangled/utils.pyo
