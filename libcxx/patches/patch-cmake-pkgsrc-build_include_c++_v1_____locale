@@ -1,0 +1,17 @@
+$NetBSD$
+
+--- cmake-pkgsrc-build/include/c++/v1/__locale.orig	2026-01-03 16:29:47.473806000 +0000
++++ cmake-pkgsrc-build/include/c++/v1/__locale
+@@ -346,10 +346,10 @@ public:
+   static const mask __regex_word = 0x4000; // 0x8000 and 0x0100 and 0x00ff are used
+ #  define _LIBCPP_CTYPE_MASK_IS_COMPOSITE_PRINT
+ #  define _LIBCPP_CTYPE_MASK_IS_COMPOSITE_ALPHA
+-#elif defined(__APPLE__) || defined(__FreeBSD__) || defined(__NetBSD__)
++#elif defined(__APPLE__) || defined(__FreeBSD__) || defined(__DragonFly__) || defined(__NetBSD__)
+ #  ifdef __APPLE__
+   typedef __uint32_t mask;
+-#  elif defined(__FreeBSD__)
++#  elif defined(__FreeBSD__) || defined(__DragonFly__)
+   typedef unsigned long mask;
+ #  elif defined(__NetBSD__)
+   typedef unsigned short mask;

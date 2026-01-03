@@ -1,0 +1,13 @@
+$NetBSD$
+
+--- cmake-pkgsrc-build/include/c++/v1/locale.orig	2026-01-03 16:31:18.574173000 +0000
++++ cmake-pkgsrc-build/include/c++/v1/locale
+@@ -232,7 +232,7 @@ template <class charT> class messages_by
+ #    include <__locale_dir/locale_base_api/bsd_locale_fallbacks.h>
+ #  endif
+ 
+-#  if defined(__APPLE__) || defined(__FreeBSD__)
++#  if defined(__APPLE__) || defined(__FreeBSD__) || defined(__DragonFly__)
+ #    include <xlocale.h>
+ #  endif
+ 

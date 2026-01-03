@@ -1,0 +1,12 @@
+$NetBSD$
+
+--- cmake-pkgsrc-build/include/c++/v1/__config.orig	2026-01-03 16:28:48.073705000 +0000
++++ cmake-pkgsrc-build/include/c++/v1/__config
+@@ -808,6 +808,7 @@ typedef __char32_t char32_t;
+       !defined(_LIBCPP_HAS_THREAD_API_EXTERNAL)
+ 
+ #    if defined(__FreeBSD__) ||                                                                                        \
++        defined(__DragonFly__) ||                                                                                      \
+         defined(__wasi__) ||                                                                                           \
+         defined(__NetBSD__) ||                                                                                         \
+         defined(__OpenBSD__) ||                                                                                        \
