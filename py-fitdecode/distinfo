@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (fitdecode-0.11.0.tar.gz) = 99501d5957b72d2632c8311621a4d2bdfc21c1eb3df80cd5b9bb21bce4af0c17
+SHA512 (fitdecode-0.11.0.tar.gz) = 45bb61e3e7df74641d1082c6a6ddd96a33c886379b397a0c76c5c6b03beb9152a72fa678d601b2486186b434ffcdd07e6e17c5530f7b224b9358c90d377591f3
+Size (fitdecode-0.11.0.tar.gz) = 107149 bytes
