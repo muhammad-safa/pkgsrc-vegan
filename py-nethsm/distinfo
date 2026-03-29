@@ -1,5 +1,5 @@
 $NetBSD$
 
-BLAKE2s (nethsm-2.0.1.tar.gz) = 1c2c7382dcc177d1481299394fa4030afcb1a0a41adc45ce481bf682a89e35a4
-SHA512 (nethsm-2.0.1.tar.gz) = b9ed3c0dfcd9a283c4391899a4288b4eceb72e96073d3e21836288b38b128823c09b8197f71dff6a793385debf773b968a9b68ad1d78c1fc066b62c0f6371ce2
-Size (nethsm-2.0.1.tar.gz) = 226282 bytes
+BLAKE2s (nethsm-2.1.0.tar.gz) = 0e44321347cca593b62599d0b3d0599ef2c89c5f5e817f3a8f756b83ad22ab7e
+SHA512 (nethsm-2.1.0.tar.gz) = ddf530275189b676f09cd9b7ce28fd557c5d2d9d44bd71dbff97855ab8879efd19e18a28fff178ed724cea4650c7e889b5c1c68708bcb06effd38a8fb9a6861c
+Size (nethsm-2.1.0.tar.gz) = 188794 bytes

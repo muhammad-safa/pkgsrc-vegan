@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	nethsm-2.0.1
+DISTNAME=	nethsm-2.1.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	security python
 MASTER_SITES=	${MASTER_SITE_PYPI:=n/nethsm/}
