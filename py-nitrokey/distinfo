@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (nitrokey-0.4.2.tar.gz) = 93bf2db219c01d3bb5c5f8e9d3696e9d10d5ad1d0189214ff2912d60e9262ab0
+SHA512 (nitrokey-0.4.2.tar.gz) = 3c66980a997fcaf18e0a151fb4023da49e9aecd10ef99d4bb48d7d4c9d3b94ae7e867cf97c503f8a3edec44279585171e613ba9e4279bb8993b28be83ae65efd
+Size (nitrokey-0.4.2.tar.gz) = 115185 bytes
