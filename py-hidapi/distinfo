@@ -1,0 +1,5 @@
+$NetBSD$
+
+BLAKE2s (hidapi-0.15.0.tar.gz) = f5b85b93354dcfd9df17166441ad0acd6b50f5e33945eab1b0d78b117a628c09
+SHA512 (hidapi-0.15.0.tar.gz) = 8cfbbc744bc5ff5a3185dd983f84faa209e6b86257a9a9121fe120b8a7c3f6b15e0bb142e0f0ab6d235686349d283fee3889b8cec6e509ab9095bc7621f4d0d2
+Size (hidapi-0.15.0.tar.gz) = 184995 bytes
