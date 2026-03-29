@@ -1,6 +1,6 @@
 # $NetBSD$
 
-DISTNAME=	pynitrokey-0.11.4
+DISTNAME=	pynitrokey-0.12.0
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/^py//}
 CATEGORIES=	security python
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/pynitrokey/}
@@ -22,7 +22,7 @@ DEPENDS+=	${PYPKGPREFIX}-ecdsa-[0-9]*:../../security/py-ecdsa
 DEPENDS+=	${PYPKGPREFIX}-fido2>=1.1.2:../../security/py-fido2
 DEPENDS+=	${PYPKGPREFIX}-intelhex>=2.3<3*:../../devel/py-intelhex
 DEPENDS+=	${PYPKGPREFIX}-nethsm>=2.0.1<3:../../vegan/py-nethsm
-DEPENDS+=	${PYPKGPREFIX}-nkdfu-[0-9]*:../../sysutils/py-nkdfu
+DEPENDS+=	${PYPKGPREFIX}-nkdfu-[0-9]*:../../vegan/py-nkdfu
 #DEPENDS+=	${PYPKGPREFIX}-protobuf>=3.17.3:../../devel/py-protobuf
 DEPENDS+=	${PYPKGPREFIX}-requests>2.16<3:../../devel/py-requests
 DEPENDS+=	${PYPKGPREFIX}-semver>=3<4:../../devel/py-semver
