@@ -1,7 +1,7 @@
 # $NetBSD$
 
 DISTNAME=	pynitrokey-0.12.0
-PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/^py//}
+PKGNAME=	${PYPKGPREFIX}-${DISTNAME:S/^pynitrokey/nitropy/}
 CATEGORIES=	security python
 MASTER_SITES=	${MASTER_SITE_PYPI:=p/pynitrokey/}
 
