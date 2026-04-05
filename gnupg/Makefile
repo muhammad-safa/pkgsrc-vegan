@@ -1,6 +1,6 @@
 # $NetBSD: Makefile,v 1.162 2025/03/03 21:32:27 nia Exp $
 
-DISTNAME=	gnupg-2.5.5
+DISTNAME=	gnupg-2.5.18
 PKGNAME=	${DISTNAME:S/gnupg-/gnupg-/}
 CATEGORIES=	security
 MASTER_SITES=	${MASTER_SITE_GNUPG:=gnupg/}

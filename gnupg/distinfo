@@ -1,7 +1,7 @@
 $NetBSD: distinfo,v 1.89 2024/11/26 11:54:18 adam Exp $
 
-BLAKE2s (gnupg-2.5.5.tar.bz2) = b751757232e231adbe179e3f69ef587ea1fa23563fac2d0c39d75ee2b6a6316e
-SHA512 (gnupg-2.5.5.tar.bz2) = a79a8f5c4abcb475792f58c72e28a60ca3586f1ea82136f132aa0b827b834d0d8bbae3b0772dcf9df029a75a4057452e14ed5fd5c5bd0637421ed698af0c0d6f
-Size (gnupg-2.5.5.tar.bz2) = 8180865 bytes
+BLAKE2s (gnupg-2.5.18.tar.bz2) = 78624b30e81a185b86911d6def87ff0adaac7a3ddcbccb3929c628445d816fae
+SHA512 (gnupg-2.5.18.tar.bz2) = 34542728ef09d23d63af21cfbc943e4a81a1c367b2bf4b892afe7428b06eaa3d105e34f5dcec1758e91ec9bac1c13fdd72418d946cd8580e34c07b57a07139a2
+Size (gnupg-2.5.18.tar.bz2) = 8307830 bytes
 SHA1 (patch-Makefile.in) = 06d7594505455bbd6c474957aeb2d811ba749e69
 SHA1 (patch-common_sysutils.c) = 569c12e21172c1521284922244b2f4f361c945d6
